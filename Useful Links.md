@@ -1,5 +1,8 @@
 # Useful Links
 
+## Final Design Digikey Cart
+https://www.digikey.com/short/zzzwvb
+
 ## TinyPICO Information
 TinyPICO GitHub repository: https://github.com/TinyPICO
 
