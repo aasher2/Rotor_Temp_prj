@@ -1,6 +1,6 @@
 # Useful Links
 
-## Tiny Pico Information
+## TinyPICO Information
 TinyPICO GitHub repository: https://github.com/TinyPICO
 
 ## Amazon Links
