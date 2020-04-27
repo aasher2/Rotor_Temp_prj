@@ -1,7 +1,7 @@
 # Useful Links
 
 ## Final Design Digi-key Cart
-https://www.digikey.com/short/zz44ww
+https://www.digikey.com/short/zz4mqt
 
 ## TinyPICO Information
 TinyPICO GitHub repository: https://github.com/TinyPICO
