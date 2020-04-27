@@ -12,6 +12,9 @@ https://www.amazon.com/HiLetgo-ESP-WROOM-32-Development-Microcontroller-Integrat
 Adafruit AD8495 Breakout Board:
 https://www.amazon.com/Adafruit-Analog-Output-Thermocouple-Amplifier/dp/B00XW2N6E0/ref=sr_1_5?dchild=1&keywords=ad8495&qid=1587999889&sr=8-5
 
+## Calibrating the AD8495
+https://www.instructables.com/id/AD8495-Breakout-Board-Solution/
+
 ## Setting up ESP32 with Energia/Arduino IDE (same process)
 https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
 
