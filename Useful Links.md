@@ -1,6 +1,6 @@
 # Useful Links
 
-## Final Design Digikey Cart
+## Final Design Digi-key Cart
 https://www.digikey.com/short/zzzwvb
 
 ## TinyPICO Information
